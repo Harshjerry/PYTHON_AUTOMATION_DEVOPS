@@ -1,0 +1,7 @@
+Log Analysis Report - 2026-03-15 15:13:10.526771
+Total Errors: 3
+Total Warnings: 2
+
+Error Details:
+Database connection failed: 2 occurrences
+Timeout connecting to API: 1 occurrences
